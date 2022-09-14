@@ -1,0 +1,20 @@
+{
+  "name": "dim-extension",
+  "version": "0.0.1",
+  "description": "Mozilla extension",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-ext run --source-dir . --watch-files",
+    "lint": "web-ext lint"
+  },
+  "author": "Purusah",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "eslint": "8.23.1",
+    "typescript": "4.8.3",
+    "web-ext": "7.2.0",
+    "web-ext-types": "3.2.1"
+  }
+}
