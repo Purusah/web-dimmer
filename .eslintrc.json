@@ -60,6 +60,12 @@
                 "maxEOF": 0
             }
         ],
+        "no-unused-vars": [
+            "error",
+            {
+                "argsIgnorePattern": "^_"
+            }
+        ],
         "no-throw-literal": "warn",
         "no-trailing-spaces": "error",
         "quotes": [
