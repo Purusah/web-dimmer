@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "Dim",
-    "description": "Dim",
+    "name": "Web Dimmer",
+    "description": "Personal extension to test privacy features and simplify sites usage",
     "version": "0.0.1",
     "author": "Purusah",
     "icons": {
