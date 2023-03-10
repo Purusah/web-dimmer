@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Web Dimmer",
-    "description": "Personal extension to test privacy features and simplify sites usage",
+    "description": "Personal extension",
     "version": "0.0.1",
     "author": "Purusah",
     "icons": {
@@ -31,9 +31,6 @@
         }
     ],
     "permissions": [
-        "<all_urls>",
-        "activeTab",
-        "webRequest",
-        "webRequestBlocking"
+        "activeTab"
     ]
 }

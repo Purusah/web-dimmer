@@ -1,20 +1,6 @@
 # Web Dimmer Firefox Extension
 
-Personal extension to test privacy features and simplify sites usage
-
-## Features
-
-* Override user-agent
-* Skip video
-
-## Ideas
-
-- redefine navigator object
-- change screen resolution
-- clear cookies by whitelist
-- block canvas
-- publish extension
-- Android extension
+Personal extension to skip video
 
 ## Disclaimer
 
